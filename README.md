@@ -28,7 +28,7 @@ A full-stack weather application built with Remix, React, Material-UI, and Mongo
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/kaatcodes/weather-app.git
 cd weather-app
 ```
 
