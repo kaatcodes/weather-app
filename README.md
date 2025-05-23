@@ -40,7 +40,7 @@ npm install
 3. Create a `.env` file in the root directory with the following variables:
 ```
 MONGO_URI=your_mongodb_connection_string
-SESSION_SECRET=your_session_secret
+SESSION_SECRET=random_long_string
 WEATHER_API_KEY=your_weatherapi_key
 ```
 For demo purposes, I have uploaded my .env temporarily
